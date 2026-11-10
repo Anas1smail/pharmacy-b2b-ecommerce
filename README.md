@@ -1,6 +1,5 @@
 # B2B Pharmacy & Warehouse E-Commerce Platform
 
-https://github.com/user-attachments/assets/37069a85-a1e7-4eae-9b2d-b5f8a464f2a9
 
 ## 📌 Project Overview
 This platform is a comprehensive B2B e-commerce solution engineered to bridge the supply chain between pharmacies and wholesale warehouses. Developed over a 5-month period, it optimizes bulk ordering, real-time inventory synchronization, and secure transaction workflows through a mobile client and a dedicated web dashboard.
